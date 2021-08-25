@@ -1,0 +1,8 @@
+.gnvmrc
+node.exe
+npm
+npm.cmd
+node_modules/
+repo_npm/
+repo_yarn/
+*.*.*/
